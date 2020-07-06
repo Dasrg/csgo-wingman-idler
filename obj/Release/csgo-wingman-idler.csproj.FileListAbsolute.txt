@@ -1,0 +1,10 @@
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\bin\Release\csgo-wingman-idler.exe.config
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\bin\Release\csgo-wingman-idler.exe
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\bin\Release\csgo-wingman-idler.pdb
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo-wingman-idler.csprojAssemblyReference.cache
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo_wingman_idler.Form1.resources
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo_wingman_idler.Properties.Resources.resources
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo-wingman-idler.csproj.GenerateResource.cache
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo-wingman-idler.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo-wingman-idler.exe
+C:\Users\111\source\repos\csgo-wingman-idler\csgo-wingman-idler\obj\Release\csgo-wingman-idler.pdb
